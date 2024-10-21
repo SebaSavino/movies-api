@@ -35,3 +35,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## API Documentation
+* [Movies API Swagger](https://movies-api-o2pz.onrender.com/docs)
